@@ -7,6 +7,3 @@ name = "pypi"
 transformers = {extras = ["torch"], version = "*"}
 
 [dev-packages]
-
-[requires]
-python_version = "3.8"
